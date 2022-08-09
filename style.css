@@ -1,0 +1,29 @@
+* body {
+    position: relative;
+    text-align: center;
+    /* padding: 150px; */
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-image:url("project\ 1\ .jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    min-height: 100vh;
+  }
+  h1 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    padding: 80px;
+  }
+  h2 {
+    font-size: 50px;
+    color: black;
+    padding: 20px;
+  }
+  button:hover {
+    background-color: aliceblue;
+  }
+  ul {
+    float: right;
+    text-align: top;
+    text-decoration-color: black;
+  }
